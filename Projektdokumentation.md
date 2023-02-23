@@ -15,7 +15,7 @@ Steven Salie, Noah Meier, Ensar Yldirim, Carina Sutter
 
 Wir machen ein Roguelike Dungeon Crawler.
 
-✍️ Erklären Sie genauer in 50 bis 100 Wörtern, was genau Sie in diesem Projekt erreichen möchten, und was Sie dabei zu lernen hoffen.
+Wir machen ein 2D Roguelike Dungeon Crawler, indem hat es verschiedene Levels mit verschieden starken Enemys. Wärend dem Spielen erscheinen verschiedene Items, die man einsameln kann, und durch die man besser überleben kann. Jeder von uns Programmiert 2 Levels mit verschiedenen Schwierigkeitsgraden. Wir werden das ganze in unity machen. 
 
 ### 1.2 User Stories
 
