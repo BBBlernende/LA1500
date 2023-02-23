@@ -19,11 +19,18 @@ Wir machen einen 2D Rogue-Artigen Dungeon-Crawler. In diesem hat es verschiedene
 
 ### 1.2 User Stories
 
-| US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
-| ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
-
+| US-№ | Verbindlichkeit | Typ        | Beschreibung                       |
+| ---- | --------------- | ----       | ---------------------------------- |
+| 1    | Muss            | Funktional | Als ein Spieler möchte ich, dass ein Hauptmenü angezeigt wird, damit ich mir ein Level aussuchen kann.|
+| 2    | Muss            | Funktional | Als ein Spieler möchte ich, dass mir das Level angezeigt wird, damit ich darauf spielen kann.|
+| 3    | Muss            | Funktional | Als ein Spieler möchte ich, dass es Gegner in dem Level hat, damit ich eine herausforderung habe.|
+| 4    | Muss            | Qualität   | Als ein Spieler möchte ich gewisse Gegner angreifen können, damit ich mehr spass als spieler habe.|   
+| 5    | Muss            | Funktional | Als ein Spieler möchte ich sterben können, damit ich eine Herausforderung habe|
+| 6    | Muss            | Qualität   | Als ein Spieler möchte ich verschiedene Waffen aufnehmen können, um Gegner auf unterschiedliche weisen zu bekämpfen.|
+| 7    | Muss            | Qualität   | Als ein Spieler möchte ich, dass es verschiedene Arten von Gegnen in dem Spiel hat, damit es nicht langweilig wird.|
+| 8    | Kann            | Qualität   | Als ein Spieler möchte ich verschlossene Türen im level haben, für die ich einen Schlüssel finden muss, damit es nicht langweilig wird.|
+| 9    |                 |            |                                    |
+| 10   |                 |            |                                    |
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
 ### 1.3 Testfälle
