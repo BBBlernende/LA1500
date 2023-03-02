@@ -62,17 +62,17 @@ Wir machen einen 2D Rogue-Artigen Dungeon-Crawler. In diesem hat es verschiedene
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 14.A  | 09.03.23 |  Noah Meier, Carina Sutter  | Grafik design: Level | 120 min |
-| 14.B  | 09.03.23 |   Noah Meier, Carina Sutter | Grafik design: Level: blöcke | 50 min |
-| 14.C  | 09.03.23 |   Noah Meier, Carina Sutter | Grafik design: Level: Details | 20 min |
-| 14.D  | 09.03.23 |   Noah Meier, Carina Sutter | Grafik design: Level: Fackel | 20 min |
-| 14.E  | 09.03.23 |   Noah Meier, Carina Sutter | Grafik design: Level: Moos | 20 min |
-| 14.F  | 09.03.23 |   Noah Meier, Carina Sutter | Grafik design: Level: Wand Grafik | 10 min |
+| 14.A  | 09.03.23 |   Noah Meier | Grafik design: Level | 120 min |
+| 14.B  | 09.03.23 |   Noah Meier | Grafik design: Level: blöcke | 50 min |
+| 14.C  | 09.03.23 |   Noah Meier | Grafik design: Level: Details | 20 min |
+| 14.D  | 09.03.23 |   Noah Meier | Grafik design: Level: Fackel | 20 min |
+| 14.E  | 09.03.23 |   Noah Meier | Grafik design: Level: Moos | 20 min |
+| 14.F  | 09.03.23 |   Noah Meier | Grafik design: Level: Wand Grafik | 10 min |
 | 13.G  | 16.03.23 |   Noah Meier, Carina Sutter | Grafik design: Items | 120 min |
-| 13.H  | 09.03.23 |   Noah Meier, Carina Sutter | Grafik design: Coins | 30 min |
+| 13.H  | 09.03.23 |   Carina Sutter | Grafik design: Coins | 30 min |
 | 13.I  | 16.03.23 |   Noah Meier, Carina Sutter | Grafik design: Waffe | 120 min |
-| 13.J  | 09.03.23 |   Noah Meier, Carina Sutter | Grafik design: Türe | 20 min |
-| 13.K  | 09.03.23 |   Noah Meier, Carina Sutter | Grafik design: Bagpack | 20 min |
+| 13.J  | 09.03.23 |   Carina Sutter | Grafik design: Türe | 20 min |
+| 13.K  | 09.03.23 |   Carina Sutter | Grafik design: Bagpack | 20 min |
 | 15.L  | 23.03.23 |   Noah Meier, Carina Sutter | Grafik design: Animation | 160 min |
 | 15.M  | 23.03.23 |   Noah Meier, Carina Sutter | Grafik design: Animation: Angriff | 60 min |
 | 15.N  | 23.03.23 |   Noah Meier, Carina Sutter | Grafik design: Animation: Items collect | 30 min |
@@ -86,7 +86,7 @@ Wir machen einen 2D Rogue-Artigen Dungeon-Crawler. In diesem hat es verschiedene
 | 16.V  | 16.03.23 |   Noah Meier, Carina Sutter | Grafik design: UI: Inventar  | 30 - 60 min |
 | 16.W  | 16.03.23 |   Noah Meier, Carina Sutter | Grafik design: UI: Inventar: auf seite Inventar zum Waffen und Tränke aufzunehmen 3/4 slots | 20 min |
 | 13.X  | 16.03.23 |   Noah Meier, Carina Sutter | Grafik design: UI: Effekt | 40 min |
-| 13.Y  | 09.03.23 |   Noah Meier, Carina Sutter | Spiel design: 1 Spieler| 90 min |
+| 13.Y  | 09.03.23 |   Carina Sutter | Spiel design: 1 Spieler| 90 min |
 | 13.Z  | 16.03.23 |   Noah Meier, Carina Sutter | Spiel design: enemys | 150 min |
 | 13.AA | 16.03.23 |   Noah Meier, Carina Sutter | Spiel design: Aufbau Map| 60 min |
 
