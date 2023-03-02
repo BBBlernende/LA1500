@@ -19,19 +19,24 @@ Wir machen einen 2D Rogue-Artigen Dungeon-Crawler. In diesem hat es verschiedene
 
 ### 1.2 User Stories
 
-| US-№ | Verbindlichkeit | Typ        | Beschreibung                       |
-| ---- | --------------- | ----       | ---------------------------------- |
-| 1    | Muss            | Funktional | Als ein Spieler möchte ich, dass ein Hauptmenü angezeigt wird, damit ich mir ein Level aussuchen kann.|
-| 2    | Muss            | Funktional | Als ein Spieler möchte ich, dass mir das Level angezeigt wird, damit ich darauf spielen kann.|
-| 3    | Muss            | Funktional | Als ein Spieler möchte ich, dass es Gegner in dem Level hat, damit ich eine herausforderung habe.|
-| 4    | Muss            | Qualität   | Als ein Spieler möchte ich gewisse Gegner angreifen können, damit ich mehr spass als spieler habe.|   
-| 5    | Muss            | Funktional | Als ein Spieler möchte ich sterben können, damit ich eine Herausforderung habe|
-| 6    | Muss            | Funktional | Als ein Spieler möchte ich verschiedene Items einsammeln und verwenden können, damit ich besser überleben kann und mehr abwechslung habe.|
-| 7    | Muss            | Funktional | Als ein Spieler möchte ich bei beenden eines levels zum nächsten Level kommen, damit ich gleich weiterspielen kann.|
-| 8    | Muss            | Qualität   | Als ein Spieler möchte ich verschiedene Waffen finden und aufnehmen können, um Gegner auf unterschiedliche Weisen zu bekämpfen.|
-| 9    | Muss            | Qualität   | Als ein Spieler möchte ich, dass es verschiedene Arten von Gegnen in dem Spiel hat, damit es nicht langweilig wird.|
-| 10   | Kann            | Qualität   | Als ein Spieler möchte ich verschlossene Türen im level haben, für die ich einen Schlüssel finden muss, damit es nicht langweilig wird.|
-| 11   | Kann            | Qualität   | Als ein Spieler möchte ich die Waffen von getöteten Gegnern aufnehmen können, damit ich eine Motivation habe, die Gegner zu besiegen. |
+
+
+US-№|	Verbindlichkeit	|Typ	|Beschreibung
+|1|	Muss	|Funktional	|Als ein Spieler möchte ich, dass ein Hauptmenü angezeigt wird, damit ich mir ein Level aussuchen kann.
+|2|	Muss	|Funktional	|Als ein Spieler möchte ich, dass mir das Level angezeigt wird, damit ich darauf spielen kann.
+|3|	Muss	|Funktional	|Als ein Spieler möchte ich, dass es Gegner in dem Level hat, damit ich eine herausforderung habe.
+|4|	Muss	|Qualität	|Als ein Spieler möchte ich gewisse Gegner angreifen können, damit ich mehr spass als spieler habe.
+|5|	Muss	|Funktional	|Als ein Spieler möchte ich sterben (ein leben verlieren) können, damit ich eine Herausforderung habe
+|6|	Muss	|Funktional	|Als ein Spieler möchte ich ein "Game Over" haben können, damit ich während dem Spiel mehr gespannt bin und eine grössere Herausforderung habe.
+|7|	Muss	|Funktional	|Als ein Spieler möchte ich verschiedene Items einsammeln und verwenden können, damit ich besser überleben kann und mehr abwechslung habe.
+|8|	Muss	|Funktional	|Als ein Spieler möchte ich bei beenden eines levels zum nächsten Level kommen, damit ich gleich weiterspielen kann.
+|9|	Muss	|Qualität	|Als ein Spieler möchte ich verschiedene Waffen finden und aufnehmen können, um Gegner auf unterschiedliche Weisen zu bekämpfen.
+|10|	Muss	|Qualität|	Als ein Spieler möchte ich, dass es verschiedene Arten von Gegnen in dem Spiel hat, damit es nicht langweilig wird.
+|11|Kann	|Qualität	|Als ein Spieler möchte ich verschlossene Türen im level haben, für die ich einen Schlüssel finden muss, damit es nicht langweilig wird.
+|12|	Kann|	Qualität|	Als ein Spieler möchte ich die Waffen von getöteten Gegnern aufnehmen können, damit ich eine Motivation habe, die Gegner zu besiegen.
+|13|	Muss	|Qualität|	Als ein Spieler möchte ich ansprechende Grafik sehen, damit ich mich nicht langweile.
+|14|	Muss	|Qualität	|Als ein Spieler möchte ich ein interessant aufgebautes level haben, damit ich am spiel spass habe.
+|15|	Muss	|Qualität	|Als ein Spieler möchte ich interessante animationen sehen, damit ich mich nicht langweile.
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
