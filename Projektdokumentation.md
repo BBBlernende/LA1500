@@ -22,6 +22,7 @@ Wir machen einen 2D Rogue-Artigen Dungeon-Crawler. In diesem hat es verschiedene
 
 
 US-№|	Verbindlichkeit	|Typ	|Beschreibung
+| ----- | ------- | ------------------------------------------------------------ |
 |1|	Muss	|Funktional	|Als ein Spieler möchte ich, dass ein Hauptmenü angezeigt wird, damit ich mir ein Level aussuchen kann.
 |2|	Muss	|Funktional	|Als ein Spieler möchte ich, dass mir das Level angezeigt wird, damit ich darauf spielen kann.
 |3|	Muss	|Funktional	|Als ein Spieler möchte ich, dass es Gegner in dem Level hat, damit ich eine herausforderung habe.
