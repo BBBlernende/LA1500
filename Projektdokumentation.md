@@ -25,18 +25,13 @@ Wir machen einen 2D Rogue-Artigen Dungeon-Crawler. In diesem hat es verschiedene
 | 2    | Muss            | Funktional | Als ein Spieler möchte ich, dass mir das Level angezeigt wird, damit ich darauf spielen kann.|
 | 3    | Muss            | Funktional | Als ein Spieler möchte ich, dass es Gegner in dem Level hat, damit ich eine herausforderung habe.|
 | 4    | Muss            | Qualität   | Als ein Spieler möchte ich gewisse Gegner angreifen können, damit ich mehr spass als spieler habe.|   
-| 5    | Muss            | Funktional | Als ein Spieler möchte ich sterben (ein leben verlieren) können, damit ich eine Herausforderung habe|
-| 6    | Muss            | Funktional | Als ein Spieler möchte ich ein "Game Over" haben können, damit ich während dem Spiel mehr gespannt bin und eine grössere Herausforderung habe.|
-| 7    | Muss            | Funktional | Als ein Spieler möchte ich verschiedene Items einsammeln und verwenden können, damit ich besser überleben kann und mehr abwechslung habe.|
-| 8    | Muss            | Funktional | Als ein Spieler möchte ich bei beenden eines levels zum nächsten Level kommen, damit ich gleich weiterspielen kann.|
-| 9    | Muss            | Qualität   | Als ein Spieler möchte ich verschiedene Waffen finden und aufnehmen können, um Gegner auf unterschiedliche Weisen zu bekämpfen.|
-| 10   | Muss            | Qualität   | Als ein Spieler möchte ich, dass es verschiedene Arten von Gegnen in dem Spiel hat, damit es nicht langweilig wird.|
-| 11   | Kann            | Qualität   | Als ein Spieler möchte ich verschlossene Türen im level haben, für die ich einen Schlüssel finden muss, damit es nicht langweilig wird.|
-| 12   | Kann            | Qualität   | Als ein Spieler möchte ich die Waffen von getöteten Gegnern aufnehmen können, damit ich eine Motivation habe, die Gegner zu besiegen. |
-| 13   | Muss            | Qualität   | Als ein Spieler möchte ich ansprechende Grafik sehen, damit ich mich nicht langweile. |
-| 14   | Muss            | Qualität   | Als ein Spieler möchte ich ein interessant aufgebautes level haben, damit ich am spiel spass habe. |
-| 15   | Muss            | Qualität   | Als ein Spieler möchte ich interessante animationen sehen, damit ich mich nicht langweile. |
-
+| 5    | Muss            | Funktional | Als ein Spieler möchte ich sterben können, damit ich eine Herausforderung habe|
+| 6    | Muss            | Funktional | Als ein Spieler möchte ich verschiedene Items einsammeln und verwenden können, damit ich besser überleben kann und mehr abwechslung habe.|
+| 7    | Muss            | Funktional | Als ein Spieler möchte ich bei beenden eines levels zum nächsten Level kommen, damit ich gleich weiterspielen kann.|
+| 8    | Muss            | Qualität   | Als ein Spieler möchte ich verschiedene Waffen finden und aufnehmen können, um Gegner auf unterschiedliche Weisen zu bekämpfen.|
+| 9    | Muss            | Qualität   | Als ein Spieler möchte ich, dass es verschiedene Arten von Gegnen in dem Spiel hat, damit es nicht langweilig wird.|
+| 10   | Kann            | Qualität   | Als ein Spieler möchte ich verschlossene Türen im level haben, für die ich einen Schlüssel finden muss, damit es nicht langweilig wird.|
+| 11   | Kann            | Qualität   | Als ein Spieler möchte ich die Waffen von getöteten Gegnern aufnehmen können, damit ich eine Motivation habe, die Gegner zu besiegen. |
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
@@ -59,8 +54,35 @@ Wir machen einen 2D Rogue-Artigen Dungeon-Crawler. In diesem hat es verschiedene
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+| 1.A  |       |  Noah Meier, Carina Sutter  | Grafik design: Level |               |
+| 1.B  |       |   Noah Meier, Carina Sutter | Grafik design: Level: blöcke |               |
+| 1.C  |       |   Noah Meier, Carina Sutter | Grafik design: Level: Details |               |
+| 1.D  |       |   Noah Meier, Carina Sutter | Grafik design: Level: Fackel |               |
+| 1.E  |       |   Noah Meier, Carina Sutter | Grafik design: Level: Moos |               |
+| 1.F  |       |   Noah Meier, Carina Sutter | Grafik design: Level: Wand Grafik |               |
+| 1.G  |       |   Noah Meier, Carina Sutter | Grafik design: Items |               |
+| 1.H  |       |   Noah Meier, Carina Sutter | Grafik design: Coins |               |
+| 1.I  |       |   Noah Meier, Carina Sutter | Grafik design: Waffe |               |
+| 1.J  |       |   Noah Meier, Carina Sutter | Grafik design: Türe |               |
+| 1.K  |       |   Noah Meier, Carina Sutter | Grafik design: Bagpack |               |
+| 1.L  |       |   Noah Meier, Carina Sutter | Grafik design: Animation |               |
+| 1.M  |       |   Noah Meier, Carina Sutter | Grafik design: Animation: Angriff |               |
+| 1.N  |       |   Noah Meier, Carina Sutter | Grafik design: Animation: Items collect |               |
+| 1.O  |       |   Noah Meier, Carina Sutter | Grafik design: Animation: laufen |               |
+| 1.P  |       |   Noah Meier, Carina Sutter | Grafik design: Animation: stehende Animation |               |
+| 1.Q  |       |   Noah Meier, Carina Sutter | Grafik design: Animation: stirbt |               |
+| 1.R  |       |   Noah Meier, Carina Sutter | Grafik design: Animation: effekt Animation |               |
+| 1.S  |       |   Noah Meier, Carina Sutter | Grafik design: UI: Experience |               |
+| 1.T  |       |   Noah Meier, Carina Sutter | Grafik design: UI: health 0 - 100 |               |
+| 1.U  |       |   Noah Meier, Carina Sutter | Grafik design: UI: Chance zum wiederbeleben 5 |               |
+| 1.V  |       |   Noah Meier, Carina Sutter | Grafik design: UI: Inventar  |               |
+| 1.W  |       |   Noah Meier, Carina Sutter | Grafik design: UI: Inventar: auf seite Inventar zum Waffen und Tränke aufzunehmen 3/4 slots |               |
+| 1.X  |       |   Noah Meier, Carina Sutter | Grafik design: UI: Inventar: Später Bagpack aufnehmen -> 6 slots |               |
+| 1.Y  |       |   Noah Meier, Carina Sutter | Grafik design: UI: Effekt |               |
+| 1.Z  |       |   Noah Meier, Carina Sutter | Spiel design: 1 Spieler|               |
+| 1.Z  |       |   Noah Meier, Carina Sutter | Spiel design: enemys |               |
+| 1.Z  |       |   Noah Meier, Carina Sutter | Spiel design: Aufbau Map|               |
+
 
 Total: 
 
