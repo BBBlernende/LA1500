@@ -80,8 +80,8 @@ Wir machen einen 2D Rogue-Artigen Dungeon-Crawler. In diesem hat es verschiedene
 | 1.X  |       |   Noah Meier, Carina Sutter | Grafik design: UI: Inventar: Später Bagpack aufnehmen -> 6 slots |               |
 | 1.Y  |       |   Noah Meier, Carina Sutter | Grafik design: UI: Effekt |               |
 | 1.Z  |       |   Noah Meier, Carina Sutter | Spiel design: 1 Spieler|               |
-| 1.Z  |       |   Noah Meier, Carina Sutter | Spiel design: enemys |               |
-| 1.Z  |       |   Noah Meier, Carina Sutter | Spiel design: Aufbau Map|               |
+| 1.AA  |       |   Noah Meier, Carina Sutter | Spiel design: enemys |               |
+| 1.AB |       |   Noah Meier, Carina Sutter | Spiel design: Aufbau Map|               |
 
 
 Total: 
