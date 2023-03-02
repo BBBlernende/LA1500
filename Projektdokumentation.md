@@ -26,11 +26,12 @@ Wir machen einen 2D Rogue-Artigen Dungeon-Crawler. In diesem hat es verschiedene
 | 3    | Muss            | Funktional | Als ein Spieler möchte ich, dass es Gegner in dem Level hat, damit ich eine herausforderung habe.|
 | 4    | Muss            | Qualität   | Als ein Spieler möchte ich gewisse Gegner angreifen können, damit ich mehr spass als spieler habe.|   
 | 5    | Muss            | Funktional | Als ein Spieler möchte ich sterben können, damit ich eine Herausforderung habe|
-| 6    | Muss            | Funktional | Als ein Spieler möchte ich bei beenden eines levels zum nächsten Level kommen, damit ich gleich weiterspielen kann.|
-| 7    | Muss            | Qualität   | Als ein Spieler möchte ich verschiedene Waffen aufnehmen können, um Gegner auf unterschiedliche weisen zu bekämpfen.|
-| 8    | Muss            | Qualität   | Als ein Spieler möchte ich, dass es verschiedene Arten von Gegnen in dem Spiel hat, damit es nicht langweilig wird.|
-| 9    | Kann            | Qualität   | Als ein Spieler möchte ich verschlossene Türen im level haben, für die ich einen Schlüssel finden muss, damit es nicht langweilig wird.|
-| 10   | Kann            | Qualität   | Als ein Spieler möchte ich die Waffen von getöteten Gegnern aufnehmen können, damit ich eine Motivation habe, die Gegner zu besiegen. |
+| 6    | Muss            | Funktional | Als ein Spieler möchte ich verschiedene Items einsammeln können, damit ich besser überleben kann und mehr abwechslung habe.|
+| 7    | Muss            | Funktional | Als ein Spieler möchte ich bei beenden eines levels zum nächsten Level kommen, damit ich gleich weiterspielen kann.|
+| 8    | Muss            | Qualität   | Als ein Spieler möchte ich verschiedene Waffen aufnehmen können, um Gegner auf unterschiedliche weisen zu bekämpfen.|
+| 9    | Muss            | Qualität   | Als ein Spieler möchte ich, dass es verschiedene Arten von Gegnen in dem Spiel hat, damit es nicht langweilig wird.|
+| 10   | Kann            | Qualität   | Als ein Spieler möchte ich verschlossene Türen im level haben, für die ich einen Schlüssel finden muss, damit es nicht langweilig wird.|
+| 11   | Kann            | Qualität   | Als ein Spieler möchte ich die Waffen von getöteten Gegnern aufnehmen können, damit ich eine Motivation habe, die Gegner zu besiegen. |
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
