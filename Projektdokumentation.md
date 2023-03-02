@@ -62,33 +62,33 @@ Wir machen einen 2D Rogue-Artigen Dungeon-Crawler. In diesem hat es verschiedene
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 14.A  |       |  Noah Meier, Carina Sutter  | Grafik design: Level | 120 min |
-| 14.B  |       |   Noah Meier, Carina Sutter | Grafik design: Level: blöcke | 50 min |
-| 14.C  |       |   Noah Meier, Carina Sutter | Grafik design: Level: Details | 20 min |
-| 14.D  |       |   Noah Meier, Carina Sutter | Grafik design: Level: Fackel | 20 min |
-| 14.E  |       |   Noah Meier, Carina Sutter | Grafik design: Level: Moos | 20 min |
-| 14.F  |       |   Noah Meier, Carina Sutter | Grafik design: Level: Wand Grafik | 10 min |
-| 13.G  |       |   Noah Meier, Carina Sutter | Grafik design: Items | 120 min |
-| 13.H  |       |   Noah Meier, Carina Sutter | Grafik design: Coins | 30 min |
-| 13.I  |       |   Noah Meier, Carina Sutter | Grafik design: Waffe | 120 min |
-| 13.J  |       |   Noah Meier, Carina Sutter | Grafik design: Türe | 20 min |
-| 13.K  |       |   Noah Meier, Carina Sutter | Grafik design: Bagpack | 20 min |
-| 15.L  |       |   Noah Meier, Carina Sutter | Grafik design: Animation | 160 min |
-| 15.M  |       |   Noah Meier, Carina Sutter | Grafik design: Animation: Angriff | 60 min |
-| 15.N  |       |   Noah Meier, Carina Sutter | Grafik design: Animation: Items collect | 30 min |
-| 15.O  |       |   Noah Meier, Carina Sutter | Grafik design: Animation: laufen | 30 min |
-| 15.P  |       |   Noah Meier, Carina Sutter | Grafik design: Animation: stehende Animation | 20 min |
-| 15.Q  |       |   Noah Meier, Carina Sutter | Grafik design: Animation: stirbt | 20 min |
-| 15.R  |       |   Noah Meier, Carina Sutter | Grafik design: Animation: effekt Animation | 60 min |
-| 16.S  |       |   Noah Meier, Carina Sutter | Grafik design: UI: Experience | 20 min |
-| 16.T  |       |   Noah Meier, Carina Sutter | Grafik design: UI: health 0 - 100 | 20 min |
-| 16.U  |       |   Noah Meier, Carina Sutter | Grafik design: UI: Chance zum wiederbeleben 5 | 20 min |
-| 16.V  |       |   Noah Meier, Carina Sutter | Grafik design: UI: Inventar  | 30 - 60 min |
-| 16.W  |       |   Noah Meier, Carina Sutter | Grafik design: UI: Inventar: auf seite Inventar zum Waffen und Tränke aufzunehmen 3/4 slots | 20 min |
-| 13.X  |       |   Noah Meier, Carina Sutter | Grafik design: UI: Effekt | 40 min |
-| 13.Y  |       |   Noah Meier, Carina Sutter | Spiel design: 1 Spieler| 90 min |
-| 13.Z  |       |   Noah Meier, Carina Sutter | Spiel design: enemys | 150 min |
-| 13.AA |       |   Noah Meier, Carina Sutter | Spiel design: Aufbau Map| 60 min |
+| 14.A  | 09.03.23 |  Noah Meier, Carina Sutter  | Grafik design: Level | 120 min |
+| 14.B  | 09.03.23 |   Noah Meier, Carina Sutter | Grafik design: Level: blöcke | 50 min |
+| 14.C  | 09.03.23 |   Noah Meier, Carina Sutter | Grafik design: Level: Details | 20 min |
+| 14.D  | 09.03.23 |   Noah Meier, Carina Sutter | Grafik design: Level: Fackel | 20 min |
+| 14.E  | 09.03.23 |   Noah Meier, Carina Sutter | Grafik design: Level: Moos | 20 min |
+| 14.F  | 09.03.23 |   Noah Meier, Carina Sutter | Grafik design: Level: Wand Grafik | 10 min |
+| 13.G  | 16.03.23 |   Noah Meier, Carina Sutter | Grafik design: Items | 120 min |
+| 13.H  | 09.03.23 |   Noah Meier, Carina Sutter | Grafik design: Coins | 30 min |
+| 13.I  | 16.03.23 |   Noah Meier, Carina Sutter | Grafik design: Waffe | 120 min |
+| 13.J  | 09.03.23 |   Noah Meier, Carina Sutter | Grafik design: Türe | 20 min |
+| 13.K  | 09.03.23 |   Noah Meier, Carina Sutter | Grafik design: Bagpack | 20 min |
+| 15.L  | 23.03.23 |   Noah Meier, Carina Sutter | Grafik design: Animation | 160 min |
+| 15.M  | 23.03.23 |   Noah Meier, Carina Sutter | Grafik design: Animation: Angriff | 60 min |
+| 15.N  | 23.03.23 |   Noah Meier, Carina Sutter | Grafik design: Animation: Items collect | 30 min |
+| 15.O  | 23.03.23 |   Noah Meier, Carina Sutter | Grafik design: Animation: laufen | 30 min |
+| 15.P  | 23.03.23 |   Noah Meier, Carina Sutter | Grafik design: Animation: stehende Animation | 20 min |
+| 15.Q  | 23.03.23 |   Noah Meier, Carina Sutter | Grafik design: Animation: stirbt | 20 min |
+| 15.R  | 23.03.23 |   Noah Meier, Carina Sutter | Grafik design: Animation: effekt Animation | 60 min |
+| 16.S  | 16.03.23 |   Noah Meier, Carina Sutter | Grafik design: UI: Experience | 20 min |
+| 16.T  | 16.03.23 |   Noah Meier, Carina Sutter | Grafik design: UI: health 0 - 100 | 20 min |
+| 16.U  | 16.03.23 |   Noah Meier, Carina Sutter | Grafik design: UI: Chance zum wiederbeleben 5 | 20 min |
+| 16.V  | 16.03.23 |   Noah Meier, Carina Sutter | Grafik design: UI: Inventar  | 30 - 60 min |
+| 16.W  | 16.03.23 |   Noah Meier, Carina Sutter | Grafik design: UI: Inventar: auf seite Inventar zum Waffen und Tränke aufzunehmen 3/4 slots | 20 min |
+| 13.X  | 16.03.23 |   Noah Meier, Carina Sutter | Grafik design: UI: Effekt | 40 min |
+| 13.Y  | 09.03.23 |   Noah Meier, Carina Sutter | Spiel design: 1 Spieler| 90 min |
+| 13.Z  | 16.03.23 |   Noah Meier, Carina Sutter | Spiel design: enemys | 150 min |
+| 13.AA | 16.03.23 |   Noah Meier, Carina Sutter | Spiel design: Aufbau Map| 60 min |
 
 
 Total: 
