@@ -61,34 +61,34 @@ Wir machen einen 2D Rogue-Artigen Dungeon-Crawler. In diesem hat es verschiedene
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |  Noah Meier, Carina Sutter  | Grafik design: Level |               |
-| 1.B  |       |   Noah Meier, Carina Sutter | Grafik design: Level: blöcke |               |
-| 1.C  |       |   Noah Meier, Carina Sutter | Grafik design: Level: Details |               |
-| 1.D  |       |   Noah Meier, Carina Sutter | Grafik design: Level: Fackel |               |
-| 1.E  |       |   Noah Meier, Carina Sutter | Grafik design: Level: Moos |               |
-| 1.F  |       |   Noah Meier, Carina Sutter | Grafik design: Level: Wand Grafik |               |
-| 1.G  |       |   Noah Meier, Carina Sutter | Grafik design: Items |               |
-| 1.H  |       |   Noah Meier, Carina Sutter | Grafik design: Coins |               |
-| 1.I  |       |   Noah Meier, Carina Sutter | Grafik design: Waffe |               |
-| 1.J  |       |   Noah Meier, Carina Sutter | Grafik design: Türe |               |
-| 1.K  |       |   Noah Meier, Carina Sutter | Grafik design: Bagpack |               |
-| 1.L  |       |   Noah Meier, Carina Sutter | Grafik design: Animation |               |
-| 1.M  |       |   Noah Meier, Carina Sutter | Grafik design: Animation: Angriff |               |
-| 1.N  |       |   Noah Meier, Carina Sutter | Grafik design: Animation: Items collect |               |
-| 1.O  |       |   Noah Meier, Carina Sutter | Grafik design: Animation: laufen |               |
-| 1.P  |       |   Noah Meier, Carina Sutter | Grafik design: Animation: stehende Animation |               |
-| 1.Q  |       |   Noah Meier, Carina Sutter | Grafik design: Animation: stirbt |               |
-| 1.R  |       |   Noah Meier, Carina Sutter | Grafik design: Animation: effekt Animation |               |
-| 1.S  |       |   Noah Meier, Carina Sutter | Grafik design: UI: Experience |               |
-| 1.T  |       |   Noah Meier, Carina Sutter | Grafik design: UI: health 0 - 100 |               |
-| 1.U  |       |   Noah Meier, Carina Sutter | Grafik design: UI: Chance zum wiederbeleben 5 |               |
-| 1.V  |       |   Noah Meier, Carina Sutter | Grafik design: UI: Inventar  |               |
-| 1.W  |       |   Noah Meier, Carina Sutter | Grafik design: UI: Inventar: auf seite Inventar zum Waffen und Tränke aufzunehmen 3/4 slots |               |
-| 1.X  |       |   Noah Meier, Carina Sutter | Grafik design: UI: Inventar: Später Bagpack aufnehmen -> 6 slots |               |
-| 1.Y  |       |   Noah Meier, Carina Sutter | Grafik design: UI: Effekt |               |
-| 1.Z  |       |   Noah Meier, Carina Sutter | Spiel design: 1 Spieler|               |
-| 1.AA  |       |   Noah Meier, Carina Sutter | Spiel design: enemys |               |
-| 1.AB |       |   Noah Meier, Carina Sutter | Spiel design: Aufbau Map|               |
+| 14.A  |       |  Noah Meier, Carina Sutter  | Grafik design: Level |               |
+| 14.B  |       |   Noah Meier, Carina Sutter | Grafik design: Level: blöcke |               |
+| 14.C  |       |   Noah Meier, Carina Sutter | Grafik design: Level: Details |               |
+| 14.D  |       |   Noah Meier, Carina Sutter | Grafik design: Level: Fackel |               |
+| 14.E  |       |   Noah Meier, Carina Sutter | Grafik design: Level: Moos |               |
+| 14.F  |       |   Noah Meier, Carina Sutter | Grafik design: Level: Wand Grafik |               |
+| 13.G  |       |   Noah Meier, Carina Sutter | Grafik design: Items |               |
+| 13.H  |       |   Noah Meier, Carina Sutter | Grafik design: Coins |               |
+| 13.I  |       |   Noah Meier, Carina Sutter | Grafik design: Waffe |               |
+| 13.J  |       |   Noah Meier, Carina Sutter | Grafik design: Türe |               |
+| 13.K  |       |   Noah Meier, Carina Sutter | Grafik design: Bagpack |               |
+| 15.L  |       |   Noah Meier, Carina Sutter | Grafik design: Animation |               |
+| 15.M  |       |   Noah Meier, Carina Sutter | Grafik design: Animation: Angriff |               |
+| 15.N  |       |   Noah Meier, Carina Sutter | Grafik design: Animation: Items collect |               |
+| 15.O  |       |   Noah Meier, Carina Sutter | Grafik design: Animation: laufen |               |
+| 15.P  |       |   Noah Meier, Carina Sutter | Grafik design: Animation: stehende Animation |               |
+| 15.Q  |       |   Noah Meier, Carina Sutter | Grafik design: Animation: stirbt |               |
+| 15.R  |       |   Noah Meier, Carina Sutter | Grafik design: Animation: effekt Animation |               |
+| 16.S  |       |   Noah Meier, Carina Sutter | Grafik design: UI: Experience |               |
+| 16.T  |       |   Noah Meier, Carina Sutter | Grafik design: UI: health 0 - 100 |               |
+| 16.U  |       |   Noah Meier, Carina Sutter | Grafik design: UI: Chance zum wiederbeleben 5 |               |
+| 16.V  |       |   Noah Meier, Carina Sutter | Grafik design: UI: Inventar  |               |
+| 16.W  |       |   Noah Meier, Carina Sutter | Grafik design: UI: Inventar: auf seite Inventar zum Waffen und Tränke aufzunehmen 3/4 slots |               |
+| 16.X  |       |   Noah Meier, Carina Sutter | Grafik design: UI: Inventar: Später Bagpack aufnehmen -> 6 slots |               |
+| 13.Y  |       |   Noah Meier, Carina Sutter | Grafik design: UI: Effekt |               |
+| 14.Z  |       |   Noah Meier, Carina Sutter | Spiel design: 1 Spieler|               |
+| 14.AA  |       |   Noah Meier, Carina Sutter | Spiel design: enemys |               |
+| 14.AB |       |   Noah Meier, Carina Sutter | Spiel design: Aufbau Map|               |
 
 
 Total: 
