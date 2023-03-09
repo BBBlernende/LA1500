@@ -1,7 +1,7 @@
 # Projekt-Dokumentation
 
 violette
-Steven Salie, Noah Meier, Ensar Yldirim, Carina Sutter
+Steven Salie, Noah Meier, Ensar Yildirim, Carina Sutter
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
