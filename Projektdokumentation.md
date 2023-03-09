@@ -24,9 +24,9 @@ Wir machen einen 2D Rogue-Artigen Dungeon-Crawler. In diesem hat es verschiedene
 | ---- | --------------- | ----        | ---------------------------------- |
 | 1    |	Muss           |	Funktional |	Als ein Spieler möchte ich, dass ein Hauptmenü angezeigt wird, damit ich mir ein Level aussuchen kann.|
 | 2    |	Muss           |	Funktional |	Als ein Spieler möchte ich, dass mir das Level angezeigt wird, damit ich darauf spielen kann.|
-| 3    |	Muss           |	Funktional |	Als ein Spieler möchte ich, dass es Gegner in dem Level hat, damit ich eine herausforderung habe.|
-| 4    |	Muss           |	Qualität   |	Als ein Spieler möchte ich gewisse Gegner angreifen können, damit ich mehr spass als spieler habe.|
-| 5    |	Muss           |	Funktional |	Als ein Spieler möchte ich sterben (ein leben verlieren) können, damit ich eine Herausforderung habe.|
+| 3    |	Muss           |	Funktional |	Als ein Spieler möchte ich, dass es Gegner in dem Level hat, damit ich eine Herausforderung habe.|
+| 4    |	Muss           |	Qualität   |	Als ein Spieler möchte ich gewisse Gegner angreifen können, damit ich mehr Spass als Spieler habe.|
+| 5    |	Muss           |	Funktional |	Als ein Spieler möchte ich sterben (ein Leben verlieren) können, damit ich eine Herausforderung habe.|
 | 6    |	Muss           |	Funktional |	Als ein Spieler möchte ich ein "Game Over" haben können, damit ich während dem Spiel mehr gespannt bin und eine grössere Herausforderung habe.|
 | 7    |	Muss           |	Funktional |	Als ein Spieler möchte ich verschiedene Items einsammeln und verwenden können, damit ich besser überleben kann und mehr abwechslung habe.|
 | 8    |	Muss           |	Funktional |	Als ein Spieler möchte ich bei beenden eines levels zum nächsten Level kommen, damit ich gleich weiterspielen kann.|
@@ -35,7 +35,7 @@ Wir machen einen 2D Rogue-Artigen Dungeon-Crawler. In diesem hat es verschiedene
 | 11   |	Kann           |	Qualität   |	Als ein Spieler möchte ich verschlossene Türen im level haben, für die ich einen Schlüssel finden muss, damit es nicht langweilig wird.|
 | 12   |	Kann           |	Qualität   |	Als ein Spieler möchte ich die Waffen von getöteten Gegnern aufnehmen können, damit ich eine Motivation habe, die Gegner zu besiegen.|
 | 13   |	Muss           |	Qualität   |	Als ein Spieler möchte ich ansprechende Grafik sehen, damit ich mich nicht langweile.|
-| 14   |	Muss           |	Qualität   |	Als ein Spieler möchte ich ein interessant aufgebautes level haben, damit ich am spiel spass habe.|
+| 14   |	Muss           |	Qualität   |	Als ein Spieler möchte ich ein interessant aufgebautes level haben, damit ich am Spiel Spass habe.|
 | 15   |	Muss           |	Qualität   |	Als ein Spieler möchte ich interessante animationen sehen, damit ich mich nicht langweile.|
 | 16   |  Kann           |  Qulität    | Als ein Spieler möchte ich eine Bagpack aufsammeln und dann mehr Slots haben im Inventar.|
 
