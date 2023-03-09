@@ -89,11 +89,13 @@ Wir machen einen 2D Rogue-Artigen Dungeon-Crawler. In diesem hat es verschiedene
 | 13.Y  | 09.03.23 |   Carina Sutter | Spiel design: 1 Spieler| 90 min |
 | 13.Z  | 16.03.23 |   Noah Meier, Carina Sutter | Spiel design: enemys | 150 min |
 | 13.AA | 16.03.23 |   Noah Meier, Carina Sutter | Spiel design: Aufbau Map| 60 min |
-|17.AB| 9.3.23| Ensar Yildirim, Steven Salie| Prototyp: Bewegen| 60 min|
-| 17.AC| 16.3.23| Ensar Yildirim, Steven Salie| Prototyp: Waffe| 60 min|
-| 17.AD| 16.3.23| Ensar Yildirim, Steven Salie| Prototyp: map| 60 min|
-| 17.AE| 23.3.23| Ensar Yildirim, Steven Salie|Prototyp: items| 60 min|
-| 17.AF| 23.3.23| Ensar Yildiri,Steven Salie| Prototyp: health bar| 60 min|
+|17.AB  | 9.3.23   |   Ensar Yildirim, Steven Salie| Prototyp: Bewegen| 60 min|
+| 17.AC | 16.3.23  |   Ensar Yildirim, Steven Salie| Prototyp: Waffe| 60 min|
+| 17.AD | 16.3.23  |   Ensar Yildirim, Steven Salie| Prototyp: map| 60 min|
+| 17.AE | 23.3.23  |   Ensar Yildirim, Steven Salie| Prototyp: items| 60 min|
+| 17.AF | 23.3.23  |   Ensar Yildirim, Steven Salie| Prototyp: health bar| 60 min|
+| 17.AG | 23.3.23  |   Ensar Yildirim, Steven Salie| Prototyp: health system| 90 min|
+| 17.AH | 
 
 
 
