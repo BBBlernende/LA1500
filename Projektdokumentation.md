@@ -95,7 +95,8 @@ Wir machen einen 2D Rogue-Artigen Dungeon-Crawler. In diesem hat es verschiedene
 | 17.AE | 23.3.23  |   Ensar Yildirim, Steven Salie| Prototyp: items| 60 min|
 | 17.AF | 23.3.23  |   Ensar Yildirim, Steven Salie| Prototyp: health bar| 60 min|
 | 17.AG | 23.3.23  |   Ensar Yildirim, Steven Salie| Prototyp: health system| 90 min|
-| 17.AH | 
+| 17.AH | 23.3.23  |   Ensar Yildirim, Steven Salie| Prototyp: Wände| 30 min|
+
 
 
 
