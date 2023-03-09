@@ -117,8 +117,8 @@ Total:
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| 13.H  | 09.03.2023 | Carina Sutter | 30 min | 45 min  |
+| 13.J  | 09.03.2023 | Carina Sutter | 20 min | 30 min  |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
