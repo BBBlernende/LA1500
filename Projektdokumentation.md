@@ -150,33 +150,23 @@ Wir haben uns dazu entschieden, das Projekt in unity zu programmieren.
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  | | | |
-| 2.1  | | | |
-| 3.1  | | | |
-| 3.2  | | | |
-| 4.1  | | | |
-| 5.1  | | | |
-| 6.1  | | | |
-| 7.1  | | | |
-| 8.1  | | | |
-| 9.1  | | | |
-| 10.1  | | | |
-| 11.1  | | | |
-| 11.2  | | | |
-| 11.3  | | | |
-| 12.1  | | | |
-| 16.1  | | | |
+| 1.1  | 23.3.23 | Funktioniert | Noah |
+| 2.1  | 23.3.23 | Funktioniert | Noah |
+| 3.1  | 23.3.23 | Funktioniert | Noah |
+| 3.2  | 23.3.23 | Funktioniert | Noah |
+| 4.1  | 23.3.23 | Funktioniert | Noah |
+| 5.1  | 23.3.23 | Funktioniert | Ensar |
+| 6.1  | 23.3.23 | Funktioniert | Ensar |
+| 7.1  | 23.3.23 | Funktioniert | Noah |
+| 8.1  | 23.3.23 | Funktioniert nicht | Noah |
+| 9.1  | 23.3.23 | Funktioniert | Steven |
+| 10.1  | 23.3.23 | Funktioniert | Steven |
+| 11.1  | 23.3.23 | Funktioniert nicht | Steven |
+| 11.2  | 23.3.23 | Funktioniert | Steven |
+| 11.3  | 23.3.23 | Funktioniert | Steven |
+| 12.1  | 23.3.23 | Funktioniert | Steven |
+| 16.1  | 23.3.23 | Funktioniert nicht | Steven |
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
-
-### 5.2 Exploratives Testen
-
-| BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
-| ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
-| ...  |              |         |                   |                      |
-
-✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
 
 ## 6 Auswerten
 
