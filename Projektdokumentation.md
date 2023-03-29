@@ -137,7 +137,7 @@ Wir haben uns dazu entschieden, das Projekt in unity zu programmieren.
 | 13.J  | 09.03.23 |   Carina Sutter |  20 min | 50 min|
 | 13.K  | 09.03.23 |   Carina Sutter |  20 min | 30 min|
 | 15.L  | 23.03.23 |   Noah Meier, Carina Sutter | 160 min | 140 min|
-| 15.P  | 23.03.23 |   Noah Meier, Carina Sutter | Grafik design: Animation: stehende Animation | 20 min | 50 min|
+| 15.P  | 23.03.23 |   Noah Meier, Carina Sutter | 20 min | 50 min|
 | 17.AB  | 9.3.23   |   Ensar Yildirim, Steven Salie| 60 min| 40 min|
 | 17.AH | 23.3.23  |   Ensar Yildirim, Steven Salie| 30 min| 30 min|
 | 17.AI | 23.3.23  |   Ensar Yildirim, Steven Salie| 60 min| 40 min|
