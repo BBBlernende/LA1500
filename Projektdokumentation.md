@@ -22,7 +22,7 @@ Wir machen einen 2D Rogue-Artigen Dungeon-Crawler. In diesem hat es verschiedene
 
 | US-№ | Verbindlichkeit | Typ         | Beschreibung                       |
 | ---- | --------------- | ----        | ---------------------------------- |
-| 1    |	Muss           |	Funktional |	Als ein Spieler möchte ich, dass ein Hauptmenü angezeigt wird, damit ich mir ein Level aussuchen kann.|
+| 1    |	Kann           |	Funktional |	Als ein Spieler möchte ich, dass ein Hauptmenü angezeigt wird, damit ich mir ein Level aussuchen kann.|
 | 2    |	Muss           |	Funktional |	Als ein Spieler möchte ich, dass mir das Level angezeigt wird, damit ich darauf spielen kann.|
 | 3    |	Muss           |	Funktional |	Als ein Spieler möchte ich, dass es Gegner in dem Level hat, damit ich eine Herausforderung habe.|
 | 4    |	Muss           |	Qualität   |	Als ein Spieler möchte ich gewisse Gegner angreifen können, damit ich mehr Spass als Spieler habe.|
@@ -47,8 +47,25 @@ Wir machen einen 2D Rogue-Artigen Dungeon-Crawler. In diesem hat es verschiedene
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
+| 1.1  | Das spiel wird gestartet |keine| Das Hauptmenü wird angezeigt |
+| 2.1  | Hauptmenü | ein Level wird angeklickt | das Level wird angezeigt |
+| 3.1  | Hauptmenü | ein Level wird angeklickt | das Level mit Gegnern wird angezeigt |
+| 3.2  | Im Level | Spieler lässt sich angreiffen von einem Gegner| die Gesundheit des Spielers sinkt|
+| 4.1  | Im Level| Spieler drückt pfeiltaste in die richtung eines Gegners | Der Gegner Stirbt oder wird verletzt |
+| 5.1  | Im Level | Spieler lässt sich mehrfach angreiffen von einem Gegner| die Gesundheit des Spielers sinkt auf 0 und er Stirbt|
+| 6.1  | Im Level | Spieler lässt sich mehrmals töten | ein Game-Over-Screen wird angezeigt|
+| 7.1  | Im Level | Spieler läuft gegen ein Item| das Item kommt in das Inventar des Spielers |
+| 8.1  | Im Level | Spieler läuft gegen die "Endtüre" | Ein neues Level startet |
+| 9.1  | Im Level | Spieler läuft gegen eine Waffe | die Waffe kommt in das Inventar des Spielers |
+| 10.1  | Im Level | Level wurde gestartet | Es sind verschiedene Gegner sichtbar |
+| 11.1  | Im Level | Spieler Läuft gegen eine verschlossene Türe | Der Spieler kann nicht durch die Türe gehen |
+| 11.2  | Im Level | Spieler Läuft gegen einen Schlüssel | Der Spieler sammelt den Schlüssel ein |
+| 11.3  | Im Level mit Schlüssel im inventar | Spieler Läuft gegen eine verschlossene Türe | Der Spieler kann durch die Türe gehen |
+| 12.1  | Im Level, mit waffe von getötetem gegner vor Spieler | Spieler Läuft gegen eine verschlossene Türe |  |
+| 13.1  |  |  |  |
+| 14.1  |  |  |  |
+| 15.1  |  |  |  |
+| 16.1  | Im Level |  |  |
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
@@ -119,6 +136,23 @@ Total:
 | ---- | ----- | --------- | ------------- | ----------------- |
 | 13.H  | 09.03.2023 | Carina Sutter | 30 min | 45 min  |
 | 13.J  | 09.03.2023 | Carina Sutter | 20 min | 30 min  |
+
+| 14.A  | 09.03.23 |   Noah Meier | 120 min |  |
+| 14.B  | 09.03.23 |   Noah Meier | 50 min |  |
+| 14.C  | 09.03.23 |   Noah Meier | 20 min |  |
+| 14.D  | 09.03.23 |   Noah Meier | 20 min |  |
+| 14.E  | 09.03.23 |   Noah Meier | 20 min |
+| 14.F  | 09.03.23 |   Noah Meier | 10 min |
+| 13.G  | 16.03.23 |   Noah Meier, Carina Sutter | 120 min |
+| 13.H  | 09.03.23 |   Carina Sutter | 30 min |
+| 13.I  | 16.03.23 |   Noah Meier, Carina Sutter | 120 min |
+| 13.J  | 09.03.23 |   Carina Sutter |  20 min |
+| 13.K  | 09.03.23 |   Carina Sutter |  20 min |
+| 15.L  | 23.03.23 |   Noah Meier, Carina Sutter | 160 min |
+| 15.M  | 23.03.23 |   Noah Meier, Carina Sutter | Grafik design: Animation: Angriff | 60 min |
+| 15.N  | 23.03.23 |   Noah Meier, Carina Sutter | Grafik design: Animation: Items collect | 30 min |
+| 15.O  | 23.03.23 |   Noah Meier, Carina Sutter | Grafik design: Animation: laufen | 30 min |
+| 15.P  | 23.03.23 |   Noah Meier, Carina Sutter | Grafik design: Animation: stehende Animation | 20 min |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
