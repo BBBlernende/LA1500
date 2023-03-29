@@ -41,7 +41,7 @@ Wir machen einen 2D Rogue-Artigen Dungeon-Crawler. In diesem hat es verschiedene
 
 
 
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
+
 
 ### 1.3 Testfälle
 
@@ -61,13 +61,9 @@ Wir machen einen 2D Rogue-Artigen Dungeon-Crawler. In diesem hat es verschiedene
 | 11.1  | Im Level | Spieler Läuft gegen eine verschlossene Türe | Der Spieler kann nicht durch die Türe gehen |
 | 11.2  | Im Level | Spieler Läuft gegen einen Schlüssel | Der Spieler sammelt den Schlüssel ein |
 | 11.3  | Im Level mit Schlüssel im inventar | Spieler Läuft gegen eine verschlossene Türe | Der Spieler kann durch die Türe gehen |
-| 12.1  | Im Level, mit waffe von getötetem gegner vor Spieler | Spieler Läuft gegen eine verschlossene Türe |  |
-| 13.1  |  |  |  |
-| 14.1  |  |  |  |
-| 15.1  |  |  |  |
-| 16.1  | Im Level |  |  |
+| 12.1  | Im Level, mit waffe von getötetem gegner vor Spieler | Spieler Läuft gegen die Waffe | die Waffe kommt in das Inventar |
+| 16.1  | Im Level | Spieler Läuft gegen ein Backpack | das Inventar des Spielers vergrössert sich |
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
 ### 1.4 Diagramme
 
@@ -117,18 +113,9 @@ Wir machen einen 2D Rogue-Artigen Dungeon-Crawler. In diesem hat es verschiedene
 | 17.AJ | 23.3.23  |   Ensar Yildirim, Steven Salie| Prototyp: Gegner| 60 min|
 
 
-
-
-
-Total: 
-
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
-
-✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
-
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+
 
 ## 4 Realisieren
 
@@ -137,24 +124,24 @@ Total:
 | 13.H  | 09.03.2023 | Carina Sutter | 30 min | 45 min  |
 | 13.J  | 09.03.2023 | Carina Sutter | 20 min | 30 min  |
 
-| 14.A  | 09.03.23 |   Noah Meier | 120 min |  |
-| 14.B  | 09.03.23 |   Noah Meier | 50 min |  |
-| 14.C  | 09.03.23 |   Noah Meier | 20 min |  |
-| 14.D  | 09.03.23 |   Noah Meier | 20 min |  |
-| 14.E  | 09.03.23 |   Noah Meier | 20 min |
-| 14.F  | 09.03.23 |   Noah Meier | 10 min |
-| 13.G  | 16.03.23 |   Noah Meier, Carina Sutter | 120 min |
-| 13.H  | 09.03.23 |   Carina Sutter | 30 min |
-| 13.I  | 16.03.23 |   Noah Meier, Carina Sutter | 120 min |
-| 13.J  | 09.03.23 |   Carina Sutter |  20 min |
-| 13.K  | 09.03.23 |   Carina Sutter |  20 min |
-| 15.L  | 23.03.23 |   Noah Meier, Carina Sutter | 160 min |
-| 15.M  | 23.03.23 |   Noah Meier, Carina Sutter | Grafik design: Animation: Angriff | 60 min |
-| 15.N  | 23.03.23 |   Noah Meier, Carina Sutter | Grafik design: Animation: Items collect | 30 min |
-| 15.O  | 23.03.23 |   Noah Meier, Carina Sutter | Grafik design: Animation: laufen | 30 min |
-| 15.P  | 23.03.23 |   Noah Meier, Carina Sutter | Grafik design: Animation: stehende Animation | 20 min |
+| 14.A  | 09.03.23 |   Noah Meier | 120 min | 90 min |
+| 14.B  | 09.03.23 |   Noah Meier | 50 min | 60 min |
+| 14.C  | 09.03.23 |   Noah Meier | 20 min | 30 min |
+| 14.D  | 09.03.23 |   Noah Meier | 20 min | 20 min |
+| 14.E  | 09.03.23 |   Noah Meier | 20 min | 20 min|
+| 14.F  | 09.03.23 |   Noah Meier | 10 min | 20 min|
+| 13.G  | 16.03.23 |   Noah Meier, Carina Sutter | 120 min | 80 min|
+| 13.H  | 09.03.23 |   Carina Sutter | 30 min | 40 min|
+| 13.I  | 16.03.23 |   Noah Meier, Carina Sutter | 120 min | 100 min|
+| 13.J  | 09.03.23 |   Carina Sutter |  20 min | 50 min|
+| 13.K  | 09.03.23 |   Carina Sutter |  20 min | 30 min|
+| 15.L  | 23.03.23 |   Noah Meier, Carina Sutter | 160 min | 140 min|
+| 15.P  | 23.03.23 |   Noah Meier, Carina Sutter | Grafik design: Animation: stehende Animation | 20 min | 50 min|
+| 17.AB  | 9.3.23   |   Ensar Yildirim, Steven Salie| 60 min| 40 min|
+| 17.AH | 23.3.23  |   Ensar Yildirim, Steven Salie| 30 min| 30 min|
+| 17.AI | 23.3.23  |   Ensar Yildirim, Steven Salie| 60 min| 40 min|
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
+
 
 ## 5 Kontrollieren
 
