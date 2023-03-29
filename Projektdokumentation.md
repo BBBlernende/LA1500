@@ -125,7 +125,6 @@ Wir haben uns dazu entschieden, das Projekt in unity zu programmieren.
 | ---- | ----- | --------- | ------------- | ----------------- |
 | 13.H  | 09.03.2023 | Carina Sutter | 30 min | 45 min  |
 | 13.J  | 09.03.2023 | Carina Sutter | 20 min | 30 min  |
-
 | 14.A  | 09.03.23 |   Noah Meier | 120 min | 90 min |
 | 14.B  | 09.03.23 |   Noah Meier | 50 min | 60 min |
 | 14.C  | 09.03.23 |   Noah Meier | 20 min | 30 min |
