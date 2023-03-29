@@ -3,17 +3,19 @@
 violette
 Steven Salie, Noah Meier, Ensar Yildirim, Carina Sutter
 
-| Datum | Version | Zusammenfassung                                              |
-| ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | Besprechung was wir machen, Ideen|
-|       | ...     |                                                              |
-|       | 1.0.0   |                                                              |
+| Datum    | Version | Zusammenfassung                                              |
+| -------- | ------- | ------------------------------------------------------------ |
+| 02.03.23 | 0.0.1   | Beginn des Projektes                                       |
+| 09.03.23 | 0.0.2   | Informieren über das Programmieren mit Unity und grobe planung des Spiellayouts |
+| 16.03.23 | 0.0.3   | Weiter informieren über Unity und ersten Prototypen entwickeln |
+| 23.03.23 | 0.0.4   | Den Prototypen ausbauen und die Präsentation vorbereiten |
+
 
 ## 1 Informieren
 
 ### 1.1 Ihr Projekt
 
-Wir machen ein Roguelike Dungeon Crawler.
+Wir machen ein Rogue-artigen Dungeon Crawler.
 
 Wir machen einen 2D Rogue-Artigen Dungeon-Crawler. In diesem hat es verschiedene Levels mit verschieden starken Gegnern. Wärend dem Spielen erscheinen verschiedene Items, welche eingesammelt werden können, durch die man besser überleben kann. Jeder von uns Programmiert je 2 Levels mit verschiedenen Schwierigkeitsgraden. Wir werden das Spiel in Unity machen. Wir werden uns am Anfang noch mit Unity auseinandersetzen müssen, da es noch neu für uns ist.
 
@@ -115,7 +117,7 @@ Wir machen einen 2D Rogue-Artigen Dungeon-Crawler. In diesem hat es verschiedene
 
 ## 3 Entscheiden
 
-
+Wir haben uns dazu entschieden, das Projekt in unity zu programmieren.
 
 ## 4 Realisieren
 
@@ -149,8 +151,22 @@ Wir machen einen 2D Rogue-Artigen Dungeon-Crawler. In diesem hat es verschiedene
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1  | | | |
+| 2.1  | | | |
+| 3.1  | | | |
+| 3.2  | | | |
+| 4.1  | | | |
+| 5.1  | | | |
+| 6.1  | | | |
+| 7.1  | | | |
+| 8.1  | | | |
+| 9.1  | | | |
+| 10.1  | | | |
+| 11.1  | | | |
+| 11.2  | | | |
+| 11.3  | | | |
+| 12.1  | | | |
+| 16.1  | | | |
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
