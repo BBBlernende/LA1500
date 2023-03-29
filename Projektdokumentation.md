@@ -153,8 +153,8 @@ Wir haben uns dazu entschieden, das Projekt in unity zu programmieren.
 | 1.1  | 23.3.23 | Funktioniert | Noah |
 | 2.1  | 23.3.23 | Funktioniert | Noah |
 | 3.1  | 23.3.23 | Funktioniert | Noah |
-| 3.2  | 23.3.23 | Funktioniert | Noah |
-| 4.1  | 23.3.23 | Funktioniert | Noah |
+| 3.2  | 23.3.23 | Funktioniert | Ensar |
+| 4.1  | 23.3.23 | Funktioniert | Ensar |
 | 5.1  | 23.3.23 | Funktioniert | Ensar |
 | 6.1  | 23.3.23 | Funktioniert | Ensar |
 | 7.1  | 23.3.23 | Funktioniert | Noah |
